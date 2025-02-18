@@ -1,0 +1,7 @@
+.env
+/vector_index.pkl/
+/models/
+/.ipynb_checkpoints/
+check_embedding.py
+t3.ipynb
+test2.ipynb
